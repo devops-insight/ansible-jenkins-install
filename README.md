@@ -11,9 +11,7 @@ ansible-playbook jenkins-pb.yml -i inventory.ini --extra-vars 'ansible_become_pa
 `
 
 ### Jenkins Console UI
->
-http://your-host-name:8080
+
 `
 http://localhost:8080
 `
->
