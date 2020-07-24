@@ -2,7 +2,7 @@
 Ansible playbook to install Jenkins server on Ubuntu OS.
 
 ### Configure
-- Update **inventory.ini** file with list of servers
+- Update `inventory.ini` file with list of servers
 - Replace the machine root password 
 
 ### Run Play Book
